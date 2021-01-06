@@ -13,4 +13,40 @@ A collection of Mindustry Mods.
 
 # Mod List:
 
+1 tile drills
+ADC
+Additional Content
+AeroMindustry
+BetaMindy 
+Braindustry Mod
+ChaosArranity
+CobaltMod
+Colloseus Mod 
+Crazy Militaries
+ExampleMod 
+Exotic Mod
+Futuristic IndustriesV6
+Gravillaso
+Heavy Armaments Industries
+Larger Cores
+MindOfMagic
+Mindustry back to classic mod
+MineralMod
+RTsPlanets 
+TimeControl 
+Vanilla Upgraded
+Void
+anuke approaching
+bigger display
+dev mode
+lead_ind
+noncursedtantros 
+pictologic 
+pixelcraft
+progressed materials
+reVision
+routorio
+ui lib 
+
+# Thank you to all the creators of the mods above :D
 
